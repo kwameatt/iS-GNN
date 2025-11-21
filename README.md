@@ -49,4 +49,8 @@ iS-GNN/
 │
 ├── python_scripts_only/ # Standalone utility scripts (non-package)
 │
+<<<<<<< HEAD
 └── ISGNN_Final-With-PostBlend-AsFeature-Training.ipynb # Main notebook for training & experiments
+=======
+└── ISGNN_Final-With-PostBlend-AsFeature-Training.ipynb # Main notebook for training & experiments
+>>>>>>> Update notebook and utils
